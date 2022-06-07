@@ -6,6 +6,9 @@ Gonna start learning python today
 ### heading 3
 
 ** bold text **
+
 *italics*
+
 `code`
+
 ---
