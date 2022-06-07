@@ -1,3 +1,3 @@
-# Python Notes,
+# Python Notes
 **June 7th**
 
